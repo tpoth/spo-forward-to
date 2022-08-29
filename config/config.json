@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "forward-to-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/forwardTo/ForwardToWebPart.js",
+          "manifest": "./src/webparts/forwardTo/ForwardToWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ForwardToWebPartStrings": "lib/webparts/forwardTo/loc/{locale}.js"
+  }
+}

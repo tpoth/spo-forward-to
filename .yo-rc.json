@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spo-forward-to",
+    "libraryId": "772f570a-35c7-447a-9f44-58039a68c6c3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spo-forward-to",
+    "solutionShortDescription": "spo-forward-to description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
