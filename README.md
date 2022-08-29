@@ -8,7 +8,7 @@ Short summary on functionality and used technologies.
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.14-green.svg)
 
 ## Applies to
 
@@ -19,7 +19,13 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> Node v12, v14
+
+> NPM v5, v6
+
+> TypeScript v3.9
+
+> React v16.13.1
 
 ## Solution
 
@@ -31,6 +37,7 @@ folder name | Author details (name, company, twitter alias with link)
 
 Version|Date|Comments
 -------|----|--------
+1.2|August 29, 2022|Added prerequisites to README file
 1.1|March 10, 2021|Update comment
 1.0|January 29, 2021|Initial release
 
